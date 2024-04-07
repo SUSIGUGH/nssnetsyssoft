@@ -1,0 +1,140 @@
+
+> netsyssoft@0.1.0 dev
+> next dev
+
+   ▲ Next.js 14.0.4
+   - Local:        http://localhost:3000
+
+[?25h
+
+> netsyssoft@0.1.0 dev
+> next dev
+
+   ▲ Next.js 14.0.4
+   - Local:        http://localhost:3000
+
+ ✓ Ready in 2.7s
+ ○ Compiling / ...
+ ✓ Compiled / in 6s (605 modules)
+
+ ⚠ metadata.metadataBase is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ ✓ Compiled in 971ms (283 modules)
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 811ms (350 modules)
+ ✓ Compiled in 734ms (283 modules)
+
+ ⚠ metadata.metadataBase is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ ✓ Compiled in 448ms (283 modules)
+ ✓ Compiled in 724ms (283 modules)
+ ✓ Compiled in 632ms (283 modules)
+ ✓ Compiled in 1890ms (605 modules)
+
+ ⚠ metadata.metadataBase is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ ✓ Compiled /favicon.ico in 205ms (350 modules)
+
+ ⚠ metadata.metadataBase is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ ✓ Compiled in 687ms (283 modules)
+ ✓ Compiled in 311ms (283 modules)
+ ✓ Compiled in 277ms (283 modules)
+ ✓ Compiled in 856ms (633 modules)
+
+ ⚠ metadata.metadataBase is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ ✓ Compiled in 785ms (283 modules)
+ ✓ Compiled in 423ms (283 modules)
+ ✓ Compiled in 742ms (605 modules)
+
+ ⚠ metadata.metadataBase is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ ✓ Compiled /favicon.ico in 188ms (350 modules)
+ ✓ Compiled in 399ms (283 modules)
+
+ ⚠ metadata.metadataBase is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ ✓ Compiled in 499ms (283 modules)
+ ✓ Compiled in 588ms (633 modules)
+
+ ⚠ metadata.metadataBase is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ ✓ Compiled in 545ms (283 modules)
+ ✓ Compiled in 260ms (283 modules)
+ ✓ Compiled in 411ms (283 modules)
+ ✓ Compiled in 1203ms (605 modules)
+
+ ⚠ metadata.metadataBase is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ ✓ Compiled /favicon.ico in 127ms (350 modules)
+ ✓ Compiled in 367ms (283 modules)
+
+ ⚠ metadata.metadataBase is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ ✓ Compiled in 331ms (283 modules)
+ ✓ Compiled in 306ms (283 modules)
+ ✓ Compiled in 475ms (633 modules)
+
+ ⚠ metadata.metadataBase is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ ✓ Compiled in 604ms (283 modules)
+ ✓ Compiled in 290ms (283 modules)
+ ✓ Compiled in 287ms (283 modules)
+ ✓ Compiled in 343ms (283 modules)
+ ✓ Compiled in 218ms (283 modules)
+ ✓ Compiled in 223ms (283 modules)
+ ✓ Compiled in 262ms (283 modules)
+ ✓ Compiled in 434ms (283 modules)
+ ✓ Compiled in 214ms (283 modules)
+ ✓ Compiled in 401ms (283 modules)
+ ✓ Compiled in 605ms (283 modules)
+ ✓ Compiled in 322ms (283 modules)
+ ✓ Compiled in 242ms (283 modules)
+ ✓ Compiled in 438ms (283 modules)
+ ✓ Compiled in 331ms (283 modules)
+ ✓ Compiled in 206ms (283 modules)
+ ✓ Compiled in 495ms (283 modules)
+ ✓ Compiled in 524ms (283 modules)
+ ✓ Compiled in 258ms (283 modules)
+ ✓ Compiled in 277ms (283 modules)
+ ✓ Compiled in 437ms (283 modules)
+ ✓ Compiled in 276ms (283 modules)
+ ✓ Compiled in 186ms (283 modules)
+ ✓ Compiled in 347ms (283 modules)
+ ✓ Compiled in 234ms (283 modules)
+ ✓ Compiled in 458ms (283 modules)
+ ✓ Compiled in 589ms (283 modules)
+ ✓ Compiled in 1128ms (605 modules)
+
+ ⚠ metadata.metadataBase is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ ✓ Compiled /favicon.ico in 122ms (350 modules)
+ ○ Compiling /not-found ...
+
+ ⚠ metadata.metadataBase is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ ✓ Compiled /not-found in 2.3s (596 modules)
+
+ ⚠ metadata.metadataBase is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ ✓ Compiled in 730ms (283 modules)
+ ✓ Compiled in 280ms (283 modules)
+ ✓ Compiled in 550ms (283 modules)
+ ✓ Compiled in 742ms (605 modules)
+
+ ⚠ metadata.metadataBase is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ ✓ Compiled /favicon.ico in 152ms (350 modules)
+ ✓ Compiled in 705ms (283 modules)
+
+ ⚠ metadata.metadataBase is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ ✓ Compiled in 285ms (283 modules)
+ ✓ Compiled in 220ms (283 modules)
+ ✓ Compiled in 259ms (283 modules)
+ ✓ Compiled in 441ms (283 modules)
+ ✓ Compiled in 225ms (283 modules)
+ ✓ Compiled in 207ms (283 modules)
+ ✓ Compiled in 187ms (283 modules)
+ ✓ Compiled in 518ms (283 modules)
+ ✓ Compiled in 188ms (283 modules)
+ ✓ Compiled in 384ms (283 modules)
+ ✓ Compiled in 261ms (283 modules)
+ ✓ Compiled in 447ms (283 modules)
+ ✓ Compiled in 247ms (283 modules)
+ ✓ Compiled in 256ms (283 modules)
+ ✓ Compiled in 199ms (283 modules)
+ ✓ Compiled in 477ms (283 modules)
+ ✓ Compiled in 180ms (283 modules)
+ ✓ Compiled in 389ms (283 modules)
+ ✓ Compiled in 257ms (283 modules)
+ ✓ Compiled in 485ms (283 modules)
+ ✓ Compiled in 279ms (283 modules)
+ ✓ Compiled in 266ms (283 modules)
+ ✓ Compiled in 183ms (283 modules)
+ ✓ Compiled in 613ms (283 modules)
